@@ -1,0 +1,6 @@
+# 区块链/DEFI/nft/去中心化交易所DEX/uniswap/狗狗流动性/薄饼pancakeswap/博饼
+
+演示只有web端和H5自适应，完全去中心化，没有后台。example.com/连接钱包即可体验。<br>软件介绍<br>Dogeswap 是一个去中心化的全球交易所，具有自动定价和流动性系统。受备受喜爱的狗狗coin的启发，可通过添加多种ERC20、BEP20 TOKEN质押，支持ETH、BSC、HECO多链，也可根据您的需求更新其他公链。<br>功能简介<br>SWAP（兑换TOKEN）：Dogeswap 连接到顶级去中心化交易所和合成资产提供商。当用户通过 Dogeswap执行兑换时，订单将被发送到提供市场上最合适价格来成交，流动性强。<br>STAKING（质押）：连接钱包 - 输入想要质押的及金额 - 批准质押 - 质押并领取获得的TOKEN收益<br>LEARN MORE（了解更多）：Doge是我们有趣、友好的吉祥物！Shiba Inu 是一种日本柴犬，作为在线meme而流行，代表了 DogeSwap。可发布您需要的消息。<br>技术概况<br>前端web：Javascri-pt<br>：Solidity<br>后端：Typescri-pt<br>SDK：Python<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com，一经发售，概不退款，本公司承诺系统代码无缺失、无后门，存在BUG即时修复，请买家悉知；<br>example.com,下单即默认已阅读并同意以上条款；<br>example.com：本公司所售程序仅供学习研究、模拟测试，不得使用于非法用途，不得违反国家法律，否则后果自负！如用作其他用途造成的一切法律责任后果由买家承担，与、本公司皆无关系！谢谢配合！<br>详讯武汉软艺信息技术有限公司客服QQ：1346922172<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/b3dpD" style="color: red;">https://mega-file.org/b3dpD</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
